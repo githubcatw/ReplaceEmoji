@@ -5,7 +5,7 @@ Replaces various unsupported emoji with similar, supported ones.
 It replaces various emoji with ones supported on a lot of platforms.
 
 ## Can I have a demo?
-[https://githubcatw.github.io/redemo/index.html](Sure)
+[Sure](https://githubcatw.github.io/redemo/index.html)
 
 ## Looks cool! How can I use it?
 **There is currently no way to use these scripts unless someone manually adds the scripts into a page.**
@@ -13,7 +13,7 @@ It replaces various emoji with ones supported on a lot of platforms.
 ## But I am capable of writing extensions/apps that can use the scripts!
 You can use these scripts, but **do not link to them! This causes errors in most browsers! Instead, manually add the code to your page in a script tag!**
 
-After the extension/app is available, contact me using [https://www.facebook.com/ntor56](Facebook), [https://twitter.com/EmailNarek](Twitter) or [http://tny.im/hKP](email), and I'll add it to the list below.
+After the extension/app is available, contact me using [Facebook](https://www.facebook.com/ntor56), [Twitter](https://twitter.com/EmailNarek) or [email](https://twitter.com/EmailNarek), and I'll add it to the list below.
 
 ## Is ReplaceEmoji free?
 Yes, it is, but you must credit me.
