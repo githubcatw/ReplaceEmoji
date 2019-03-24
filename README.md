@@ -22,7 +22,7 @@ Example:
 
 ```
 This app uses ReplaceEmoji.
-It is available for at https://github.com/githubcatw/ReplaceEmoji.
+It is available at https://github.com/githubcatw/ReplaceEmoji.
 ```
 
 ## Emoji X is missing! Emoji Y is replaced incorrectly! There is no replacement for set Z!
